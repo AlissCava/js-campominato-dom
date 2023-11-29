@@ -40,5 +40,9 @@ main{
   .cell.clicked {
     background-color: #90d2ff;
   }
-
+  
+  .cell.bomb {
+    background-color: lightcoral;
+  }
+  
   
